@@ -52,7 +52,5 @@ public class MainActivity extends AppCompatActivity {
 
         btnCoba.startAnimation(myAnim);
 
-//tambah komentar
-//123
     }
 }
